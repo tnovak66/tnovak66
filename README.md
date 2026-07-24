@@ -34,10 +34,10 @@ I build and launch custom websites end-to-end and pair marketing strategy with h
 | Site | What it is |
 |---|---|
 | [Taco Bus](https://taco-bus.com/) | Award-winning Tampa Mexican street-food chain — 8 locations + online ordering |
+| [Nassau County Sheriff's Office](https://nassauso.com/) | Official website for a Florida law-enforcement agency |
 | [The Warehouse FL](https://thewarehousefl.com/) | Tampa Bay kitchen & bath remodeler |
 | [Stone Equipment Co.](https://stoneequipmentco.com/) | Multi-location heavy-equipment dealer & rentals |
 | [Klein Products](https://kleinproducts.com/) | Industrial water-tank manufacturer (custom volume/distance calculator) |
-| [SAS Forks](https://sasforks.com/) | Industrial attachment manufacturer with full product catalog |
 | [Structural BR](https://structuralbr.com/) | Florida structural-restoration contractor |
 
 ---
