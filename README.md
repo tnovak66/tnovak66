@@ -18,14 +18,14 @@ I build and launch custom websites end-to-end and pair marketing strategy with h
 
 ## 🔦 Featured Project — Prism
 
-**Prism** is a white-label marketing-intelligence platform I designed and built for agencies to give their clients one clean dashboard across all their marketing data.
+**Prism** is a white-label marketing-intelligence platform I'm currently building for agencies to give their clients one clean dashboard across all their marketing data.
 
 - **Stack:** React + Vite · Node.js + Express · PostgreSQL/Prisma · deployed on Railway
 - **Architecture:** multi-tenant SaaS with a modular system that adapts each dashboard to the client's connected data sources
 - **Data:** integrates Shopify, Google Analytics (GA4), Google Ads and more
 - **AI:** uses the Claude API to turn raw metrics into plain-English insights (e.g. *"Your email campaigns drove 74% of this month's traffic spikes"*)
 
-> Live and in production. Proprietary product — guided demo available on request.
+> In active development. Proprietary product — guided walkthrough available on request.
 
 ---
 
